@@ -8,5 +8,5 @@
 
 ![E-Sherman github stats](https://github-readme-stats.vercel.app/api?username=E-Sherman&show_icons=true&theme=radical)
 
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/eleson-sherman-cavalcante/)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-060606?style=flat&labelColor=0D0D0D&logo=Linkedin&Color=white)](https://www.linkedin.com/in/eleson-sherman-cavalcante-40a6b9221/)
 [![Twitter](https://img.shields.io/badge/-Twitter-060606?style=flat&labelColor=0D0D0D&logo=Twitter&Color=white)](https://twitter.com/elesonsherman)
