@@ -11,9 +11,8 @@
 - 👯I'm focused full force on programming and new languages until I achieve mastery and always stay in the loop.
 - 💬 Ask me about `[Html, Css, Javascript, Automação industrial robôs (ABB, Motoman, Kuka]` 
 - ⚡Actually I'm not earthling, and my brothers are coming to visit the land hehe
-- 📫 How to reach me: <a href="sherman.esc@gmail.com" target="_blank" >
-  <img alt="Gmail – Eleson Sherman" src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=sherman.esc@gmail.com&longCache=true">
-</a>
+- 📫 How to reach me: sherman.esc@gmail.com
+
 
 ![E-Sherman github stats](https://github-readme-stats.vercel.app/api?username=E-Sherman&show_icons=true&theme=radical)
 
