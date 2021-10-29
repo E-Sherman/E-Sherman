@@ -1,7 +1,4 @@
 
-<img width="auto" src=".github\logo.png">
-<br>
-<br>
 <h1 align="center">Hello World 👋 I am Eleson Sherman</h1>
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/fcsouza/fcsouza/master/.github/colored.png)](#installation)
